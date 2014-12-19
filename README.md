@@ -1,6 +1,7 @@
 # SpotifyControl
 
 Tiny tray app to control common Spotify tasks with global hotkeys.
+A handy app for those of us not using a full-blown media keyboard.
 
 ## Hotkeys
 
